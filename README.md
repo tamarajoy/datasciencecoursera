@@ -1,2 +1,2 @@
 # datasciencecoursera
-repo created for an assignment for a coursers course in data science
+repository created for a coursers course in data science
